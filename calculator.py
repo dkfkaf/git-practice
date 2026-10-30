@@ -1,7 +1,7 @@
 def add(a, b):
     return a + b
 
-print(add(10, 5))
+print(add(4, 3))
 
 def multiply(a, b):
     return a * b
